@@ -26,3 +26,13 @@ public class CadastroAlunos {
     scanner.close();
   }
 }
+
+
+/*
+
+Como o array em java ele tem tamanho fixo, seja informando diretamente 
+no código (hardcoded) ou no terminal (atravez do input) não tem como acrescentar
+mais 5 alunos. A não ser que em tempo de desenvolvimento eu copie tudo para um novo
+array e descarte do anterior com menos alucações na memória. 
+
+*/
